@@ -1,6 +1,6 @@
 # Owjek
 
-Owjek merupakan aplikasi sederhana ojek online yang menerapkan algoritma shortest path untuk menentukan jalur terdekat dari posisi pick up menuju destination.
+Owjek merupakan aplikasi sederhana ojek online yang menerapkan algoritma shortest path untuk menentukan jalur terdekat dari posisi pick up menuju destination dengan bahasa pemrograman Java menggunakan Graphical User Inteface (GUI).
 
 Map dari aplikasi sederhana ini berasal dari file Map.txt, dan visualisasi map (disertai dengan kode jalur) berada pada file Map.png .
 
